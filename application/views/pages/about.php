@@ -230,6 +230,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 	<div class="footer-bottom">
 		<div class="container">		
+			<p>Design Custom by Singgih Aji Prasetyo</p>
 			<p>Copyright © 2015 Sportz . All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>					
 		</div>
 	</div>

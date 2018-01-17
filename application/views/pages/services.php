@@ -102,56 +102,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-		<!--slid-->
-		<div class="slid">
-			<div class="container">
-				<h3>Events Archive</h3>
-				<div class="slid-info">
-					<div class="col-md-3 slid-grids">						
-						<ul>
-							<li><a href="#">Donec quam lscele</a></li>
-							<li><a href="#">Etiam volutpatbh</a></li>
-							<li><a href="#">Varius fusce </a></li>
-							<li><a href="#">Donec ut quam</a></li>
-							<li><a href="#">Etiam volutbh</a></li>
-							<li><a href="#">Varius fusce </a></li>
-						</ul>
-					</div>
-					<div class="col-md-3 slid-grids">						
-						<ul>
-							<li><a href="#">Fonec ut quam </a></li>
-							<li><a href="#">Etiam volutpatbh </a></li>
-							<li><a href="#">Varius fusce</a></li>
-							<li><a href="#">Donec ut quam</a></li>
-							<li><a href="#">Etiam volutpatbh</a></li>
-							<li><a href="#">Varius fusce</a></li>
-						</ul>
-					</div>
-					<div class="col-md-3 slid-grids">						
-						<ul>
-							<li><a href="#">Tonec quam lscele</a></li>
-							<li><a href="#">Etiam volutpatbh</a></li>
-							<li><a href="#">Varius fusce </a></li>
-							<li><a href="#">Donec ut quam</a></li>
-							<li><a href="#">Etiam volutbh</a></li>
-							<li><a href="#">Varius fusce </a></li>
-						</ul>
-					</div>
-					<div class="col-md-3 slid-grids">						
-						<ul>
-							<li><a href="#">Sonec ut quam </a></li>
-							<li><a href="#">Etiam volutpatbh </a></li>
-							<li><a href="#">Varius fusce</a></li>
-							<li><a href="#">Donec ut quam</a></li>
-							<li><a href="#">Etiam volutpatbh</a></li>
-							<li><a href="#">Varius fusce</a></li>
-						</ul>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-			</div>
-		</div>
-		<!--//slid-->
+		<br>
 	</div>	
 	<!--//services-->
 	<div class="brands">
@@ -205,7 +156,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 	</div>
 	<div class="footer-bottom">
-		<div class="container">		
+		<div class="container">	
+			<p>Design Custom by Singgih Aji Prasetyo</p>	
 			<p>Copyright © 2015 Sportz . All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>					
 		</div>
 	</div>
