@@ -217,7 +217,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<span>3</span>
 					<p><?=$pt3_1 ?></p>
 					<p><?=$pt3_2 ?></p>
-					<h5><?=$c3s ?>, CLIENT </h5>
+					<h5><?=$c3 ?>, CLIENT </h5>
 				</div>
 				<div class="clearfix"></div>
 			</div>
