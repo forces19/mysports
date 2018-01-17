@@ -39,7 +39,9 @@ class Welcome extends CI_Controller {
 
 	public function about()
 	{
-		$this->load->view('pages/about');
+		$data = [];
+		$data['judul'] = $this->data_teks->get_cons('judul');
+		$this->load->view('pages/about',$data);
 	}
 
 	public function services()

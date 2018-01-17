@@ -236,23 +236,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-md-3 footer-grids">
 					<h4>Navigation</h4>					
 					<ul>
-						<li><a href="<?php echo base_url(); ?>index.html">Home</a></li>
-						<li><a href="<?php echo base_url(); ?>about.html">About us</a></li>
-						<li><a href="#gallery" class="scroll">Gallery</a></li>
-						<li><a href="<?php echo base_url(); ?>typo.html">Login</a></li>
-						<li><a href="<?php echo base_url(); ?>contact.html">Contact</a></li>
+					<li><a href="<?php echo base_url();?>Welcome/index" >Home</a></li>
+					<li><a href="<?php echo base_url();?>Welcome/about" >About</a></li>					
+					<li><a href="#gallery" class="scroll" >Gallery</a></li>
+					<li><a href="<?php echo base_url(); ?>Welcome/services" >Services</a></li>
+					<li><a href="<?php echo base_url(); ?>Welcome/login" >Login</a></li>
+					<li><a href="<?php echo base_url(); ?>Welcome/contact">Contact</a></li>
 					</ul>
 				</div>
 				<div class="col-md-3 footer-grids">
 					<h4>Support</h4>
 					<ul>
-						<li><a href="<?php echo base_url(); ?>services.html">Services</a></li>
-						<li><a href="#">Help Center</a></li>						
+						<li><a href="<?php echo base_url(); ?>Welcome/services" >Services</a></li>
+						<li><a href="<?php echo base_url(); ?>Welcome/contact">Contact</a></li>										
 					</ul>
 				</div>
 				<div class="col-md-3 footer-grids">	
 					<h4>Newsletter</h4>
-					<p>It was popularised in the 1960s with the release Ipsum. <p>
+					<p>Stay update with some <p>
 					<form>					 
 					    <input type="text" class="text" value="Enter Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter Email';}">
 						<input type="submit" value="Go">					 
