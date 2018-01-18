@@ -58,7 +58,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="typo">
 		<div class="container">
 			<h3 class="typo-title">Tabel Konten</h3>
-			<table border="1px" align="center" width="80%" style="text-align: center;">
+			<table border="1px" align="center" width="100%" style="text-align: center;">
 				<tr>
 					<th>Nama</font></th>
 					<th>Deskripsi</th>					
