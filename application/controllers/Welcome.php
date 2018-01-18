@@ -46,16 +46,22 @@ class Welcome extends CI_Controller {
 
 	public function services()
 	{
-		$this->load->view('pages/services');
+		$data = [];
+		$data['judul'] = $this->data_teks->get_cons('judul');
+		$this->load->view('pages/services',$data);
 	}
 
 	public function login()
 	{
-		$this->load->view('pages/login');
+		$data = [];
+		$data['judul'] = $this->data_teks->get_cons('judul');
+		$this->load->view('pages/login',$data);
 	}
 
 	public function contact()
 	{
-		$this->load->view('pages/contact');
+		$data = [];
+		$data['judul'] = $this->data_teks->get_cons('judul');
+		$this->load->view('pages/contact',$data);
 	}
 }

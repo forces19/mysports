@@ -27,7 +27,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="banner">		
 		<div class="banr-info abt-bnr">
 			<div class="logo">
-				<a href="<?php echo base_url(); ?>index.html">Sportz</a>
+				<a href="<?php echo base_url(); ?>index.html"><?=$judul ?></a>
 			</div>			
 		</div>
 	</div>
@@ -64,8 +64,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="<?php echo base_url(); ?>images/img15.jpg" title="">
 					</div>
 					<div class="col-md-6 srvcs-text">
-						<h4>KERPTMSE QUI NESCIUSES IDOLORES</h4>
-						<p>Katrsas lasuytasa mauystades Lundg kertaseares lmasetu segiat malesui tyuadede ferteras mise nlasce doleruytas</p>
+						<h4>Peralatan Lengkap</h4>
+						<p>MySports menyediakan peralatan pendukung yang sangat lengkap dalam latihan olahraga.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -74,8 +74,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="<?php echo base_url(); ?>images/img12.jpg" title="">
 					</div>
 					<div class="col-md-6 srvcs-text">
-						<h4>KERPTMSE QUI NESCIUSES IDOLORES</h4>
-						<p>Katrsas lasuytasa mauystades Lundg kertaseares lmasetu segiat malesui tyuadede ferteras mise nlasce doleruytas</p>
+						<h4>Metode yang Tepat</h4>
+						<p>MySports menggunakan metode-metode pelatihan yang tepat guna memaksimalkan perkembangan individu.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -84,8 +84,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="<?php echo base_url(); ?>images/img13.jpg" title="">
 					</div>
 					<div class="col-md-6 srvcs-text">
-						<h4>KERPTMSE QUI NESCIUSES IDOLORES</h4>
-						<p>Katrsas lasuytasa mauystades Lundg kertaseares lmasetu segiat malesui tyuadede ferteras mise nlasce doleruytas</p>
+						<h4>Trainer yang Handal</h4>
+						<p>MySports menyediakan trainer-trainer yang handal dan bersertifikasi teruji di setiap bidangnya.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -94,8 +94,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="<?php echo base_url(); ?>images/img14.jpg" title="">
 					</div>
 					<div class="col-md-6 srvcs-text">
-						<h4>KERPTMSE QUI NESCIUSES IDOLORES</h4>
-						<p>Katrsas lasuytasa mauystades Lundg kertaseares lmasetu segiat malesui tyuadede ferteras mise nlasce doleruytas</p>
+						<h4>Relasi Olahraga</h4>
+						<p>MySports mempunyai relasi yang sangat luas dengan mitra-mitra olahraga</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>								

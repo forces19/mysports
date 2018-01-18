@@ -27,7 +27,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="banner">		
 		<div class="banr-info abt-bnr">
 			<div class="logo">
-				<a href="<?php echo base_url(); ?>index.html">Sportz</a>
+				<a href="<?php echo base_url(); ?>index.html"><?=$judul ?></a>
 			</div>			
 		</div>
 	</div>
@@ -79,12 +79,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 				<div class="col-md-4 address">
 					<h3>Contact info</h3>
-					<p class="cnt-p">Lorem ipsum dolor sit amet, consectetur adipisicing elit,sheets containing Lorem Ipsum passages sed do </p>
+					<p class="cnt-p">Jika anda mempunyai pertanyaan-pertanyaan lebih lanjut dapat menghubungi kami di data berikut:</p>
 					<p>Eiusmod Tempor inc</p>
 					<p>9560 wikers road, USA</p>
 					<p>Telephone : +2 800 544 6035</p>
-					<p>FAX : +1 800 889 4444</p>
-					<p>Email : <a href="mailto:example@mail.com">mail@example.com</a></p>
+					<p>FAX : +62 800 889 4444</p>
+					<p>Email : <a href="mailto:singgihajiprasetyo@gmail.com">singgihajiprasetyo@gmail.com</a></p>
 				</div>				
 				<div class="clearfix"> </div>	
 			</div>	
