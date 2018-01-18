@@ -1,9 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,7 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="banner">		
 		<div class="banr-info abt-bnr">
 			<div class="logo">
-				<a href="<?php echo base_url(); ?>index.html">Sportz</a>
+				<a href="<?php echo base_url(); ?>index.html"><?=$judul ?></a>
 			</div>			
 		</div>
 	</div>

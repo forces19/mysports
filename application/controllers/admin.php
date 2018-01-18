@@ -17,7 +17,9 @@ class Admin extends CI_Controller{
 
         public function tambah()
         {
+            $data = [];
             $data['pil']='tambah';
+    		$data['judul'] = $this->data_teks->get_cons('judul');
             $this->load->view('pages/form',$data);
         }
 
