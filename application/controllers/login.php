@@ -4,6 +4,7 @@
         function __construct(){
             parent::__construct();
             $this->load->model('data_login');
+            $this->load->model('data_teks');
         }
 
         function index(){
@@ -34,8 +35,10 @@
         }
 
         function logout(){
+            $data = [];
+		    $data['judul'] = $this->data_teks->get_cons('judul');
             $this->session->sess_destroy();
-            redirect(base_url('login'));
+            $this->load->view('pages/login',$data);
         }
     }
 ?>

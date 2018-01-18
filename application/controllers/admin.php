@@ -27,6 +27,7 @@ class Admin extends CI_Controller{
         {
             $data['pil']='edit';
             $data['sql']= $this->data_teks->edit($no);
+            $data['judul'] = $this->data_teks->get_cons('judul');
             $this->load->view('pages/form',$data);
         }
 
